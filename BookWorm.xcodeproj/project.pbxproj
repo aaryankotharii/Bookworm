@@ -16,6 +16,7 @@
 		5B4F04412434CBE7002DF58C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B4F043F2434CBE7002DF58C /* LaunchScreen.storyboard */; };
 		5B4F046C24350BC9002DF58C /* AddBookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B4F046B24350BC9002DF58C /* AddBookView.swift */; };
 		5B4F046E24351080002DF58C /* RatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B4F046D24351080002DF58C /* RatingView.swift */; };
+		5B4F047024351773002DF58C /* EmojiRatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B4F046F24351773002DF58C /* EmojiRatingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		5B4F04422434CBE7002DF58C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5B4F046B24350BC9002DF58C /* AddBookView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBookView.swift; sourceTree = "<group>"; };
 		5B4F046D24351080002DF58C /* RatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingView.swift; sourceTree = "<group>"; };
+		5B4F046F24351773002DF58C /* EmojiRatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiRatingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				5B4F043C2434CBE7002DF58C /* Preview Content */,
 				5B4F046B24350BC9002DF58C /* AddBookView.swift */,
 				5B4F046D24351080002DF58C /* RatingView.swift */,
+				5B4F046F24351773002DF58C /* EmojiRatingView.swift */,
 			);
 			path = BookWorm;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 			files = (
 				5B4F04372434CBDF002DF58C /* BookWorm.xcdatamodeld in Sources */,
 				5B4F04322434CBDF002DF58C /* AppDelegate.swift in Sources */,
+				5B4F047024351773002DF58C /* EmojiRatingView.swift in Sources */,
 				5B4F04392434CBDF002DF58C /* ContentView.swift in Sources */,
 				5B4F046E24351080002DF58C /* RatingView.swift in Sources */,
 				5B4F04342434CBDF002DF58C /* SceneDelegate.swift in Sources */,
